@@ -1,5 +1,5 @@
 ## Setup
-
+[Rich docs](https://rich.readthedocs.io/en/stable/introduction.html)
 ```bash
 mkdir pyrich
 cd pyrich
